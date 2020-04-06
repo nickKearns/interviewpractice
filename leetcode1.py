@@ -1,3 +1,11 @@
+#I am given two arrays that are strings, the first array is identifying 
+#which stones are jewels
+#the second array is the stones I am given
+#I am to return how many jewels I have in the second array 
+#letters are case sensitive
+#all characters in the arrays are letters
+
+
 
 def numJewelsInStones(J, S):
     num_jewels = 0
