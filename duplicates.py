@@ -5,6 +5,9 @@
 
 
 
+#QUESTIONS 1 FOR HOMEWORK DUE APRIL 13TH
+
+
 def find_duplicates(num_arr):
     dict = {}
     for num in num_arr:

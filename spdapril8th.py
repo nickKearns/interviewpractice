@@ -5,6 +5,10 @@
 #assume casing counts as different letters
 #thinking of using a dictionary
 
+
+#QUESTION 2 FOR HOMEWORK DUE APRIL 13TH
+
+
 def find_substring(word):
     longest_substring = ''
 
