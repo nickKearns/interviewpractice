@@ -12,6 +12,7 @@ def find_target(arr, target):
     for num in arr:
         complement = target - num
         if complement in seen_comps:
+            seen_comps[complement] += 1
             return (complement, num)
         else:
             seen_comps[num] = 1
